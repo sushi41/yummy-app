@@ -1,0 +1,148 @@
+[
+    {
+        "name": "Thai Green Curry",
+        "image": "https://greenhealthycooking.com/wp-content/uploads/2014/11/Thai-Green-Curry.jpg",
+        "description": "Thai Green Curry is a spicy curry made with green chilies, Thai basil, coconut milk, and various vegetables or meats. It is typically served with rice.",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "2 tablespoons green curry paste",
+            "1 can (14 oz/400 ml) coconut milk",
+            "1 cup mixed vegetables (such as bell peppers, green beans, broccoli, and bamboo shoots)",
+            "1 cup sliced chicken, beef, shrimp, or tofu (optional)",
+            "2 tablespoons fish sauce (or soy sauce for a vegetarian version)",
+            "1 tablespoon sugar",
+            "1 cup Thai basil leaves",
+            "2-3 kaffir lime leaves (optional)",
+            "1 red chili pepper, sliced (optional, for extra heat)",
+            "Cooked rice for serving"
+        ],
+        "instructions": [
+            "1. Heat the vegetable oil in a large pan or wok over medium heat.",
+            "2. Add the green curry paste to the pan and stir-fry for 1-2 minutes until fragrant.",
+            "3. Pour in half of the coconut milk (about 7 oz/200 ml) and stir well with the curry paste, allowing it to simmer gently for a few minutes.",
+            "4. If using meat, add the sliced chicken, beef, shrimp, or tofu to the pan and cook until it is almost cooked through.",
+            "5. Add the mixed vegetables to the pan and stir-fry for a few minutes until they are slightly tender.",
+            "6. Pour in the remaining coconut milk and stir well. If the curry is too thick, you can add a little water or broth to thin it out.",
+            "7. Season the curry with fish sauce (or soy sauce) and sugar. Adjust the quantities according to your taste preferences.",
+            "8. Add the Thai basil leaves, kaffir lime leaves (if using), and sliced red chili pepper (if desired). Stir well and cook for another minute.",
+            "9. Remove the pan from heat and let the curry sit for a couple of minutes to allow the flavors to meld together.",
+            "10. Serve the green curry hot with cooked rice."
+        ]
+    },
+    {
+        "name": "Pad Thai (Stir-Fried Noodles)",
+        "description": "Pad Thai is a popular Thai dish made with stir-fried rice noodles, shrimp, tofu, bean sprouts, peanuts, and a tangy sauce.",
+        "ingredients": [
+            "8 ounces rice noodles",
+            "2 tablespoons vegetable oil",
+            "1/2 cup diced tofu",
+            "8 large shrimp, peeled and deveined",
+            "2 cloves garlic, minced",
+            "2 eggs, lightly beaten",
+            "1 cup bean sprouts",
+            "2 green onions, sliced",
+            "1/4 cup crushed peanuts",
+            "2 tablespoons fish sauce",
+            "2 tablespoons tamarind paste",
+            "1 tablespoon sugar",
+            "1 tablespoon lime juice",
+            "1/4 teaspoon red pepper flakes (optional)"
+        ],
+        "instructions": [
+            "1. Cook the rice noodles according to the package instructions. Drain and set aside.",
+            "2. In a large skillet or wok, heat the vegetable oil over medium-high heat. Add the tofu and shrimp, and cook until the shrimp turns pink and is cooked through, about 2-3 minutes. Remove from the skillet and set aside.",
+            "3. In the same skillet, add the minced garlic and cook for 1 minute until fragrant.",
+            "4. Push the garlic to one side of the skillet and pour the beaten eggs into the other side. Scramble the eggs until cooked through, then mix with the garlic.",
+            "5. Add the cooked rice noodles to the skillet and toss with the garlic and eggs.",
+            "6. Add the bean sprouts, green onions, crushed peanuts, fish sauce, tamarind paste, sugar, lime juice, and red pepper flakes (if using). Toss everything together until well combined and heated through.",
+            "7. Remove from heat and serve the Pad Thai hot. Garnish with additional crushed peanuts and lime wedges if desired."
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg/1200px-Phat_Thai_kung_Chang_Khien_street_stall.jpg"
+    },
+    {
+        "name": "Tom Yum Goong (Hot & Sour Shrimp Soup)",
+        "description": "Tom Yum Goong is a popular Thai soup known for its hot and sour flavors. It is made with shrimp, mushrooms, lemongrass, and various aromatic herbs and spices.",
+        "ingredients": [
+            "8 cups water",
+            "2 stalks lemongrass, cut into 2-inch pieces and lightly smashed",
+            "4 kaffir lime leaves, torn",
+            "2 inches galangal or ginger, sliced",
+            "1/2 cup mushrooms (such as straw mushrooms or button mushrooms), sliced",
+            "1 pound shrimp, peeled and deveined",
+            "3 tablespoons fish sauce",
+            "2 tablespoons lime juice",
+            "1 tablespoon chili paste",
+            "2 teaspoons sugar",
+            "2 tablespoons chopped cilantro",
+            "2-3 Thai bird's eye chilies, thinly sliced (optional)",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "1. In a large pot, bring water to a boil.",
+            "2. Add lemongrass, kaffir lime leaves, and galangal or ginger slices. Let it simmer for 5-10 minutes to infuse the flavors.",
+            "3. Add mushrooms and cook for another 5 minutes until they soften.",
+            "4. Add shrimp and cook until they turn pink and are cooked through, approximately 2-3 minutes.",
+            "5. Stir in fish sauce, lime juice, chili paste, sugar, and salt. Taste and adjust the seasoning according to your preference.",
+            "6. Remove from heat and garnish with chopped cilantro and sliced Thai bird's eye chilies (if desired).",
+            "7. Serve hot and enjoy the flavorful Tom Yum Goong!"
+        ],
+        "image": "https://www.valerieskeepers.com/wp-content/uploads/2015/06/tom-yum-12-1-sur-1.jpg"
+    },
+    {
+        "name": "Hara Bhara Kabab",
+        "description": "Hara Bhara Kabab is a popular vegetarian Indian appetizer made with a combination of spinach, green peas, and spices.",
+        "ingredients": [
+            "2 cups spinach, blanched and finely chopped",
+            "1 cup green peas, boiled and mashed",
+            "1 large potato, boiled and mashed",
+            "1 small onion, finely chopped",
+            "2 green chilies, finely chopped",
+            "2 tablespoons bread crumbs",
+            "1 tablespoon ginger-garlic paste",
+            "1/2 teaspoon cumin powder",
+            "1/2 teaspoon garam masala",
+            "1/2 teaspoon chaat masala",
+            "Salt to taste",
+            "Oil for shallow frying"
+        ],
+        "instructions": [
+            "1. In a mixing bowl, combine the finely chopped spinach, mashed green peas, mashed potato, chopped onion, green chilies, bread crumbs, ginger-garlic paste, cumin powder, garam masala, chaat masala, and salt.",
+            "2. Mix all the ingredients well until they are thoroughly combined and form a dough-like consistency.",
+            "3. Take a small portion of the mixture and shape it into a flat round or oval-shaped kabab.",
+            "4. Heat oil in a non-stick pan or griddle over medium heat.",
+            "5. Place the shaped kababs on the hot pan and shallow fry them until they turn golden brown and crisp on both sides.",
+            "6. Remove the kababs from the pan and place them on a paper towel to absorb any excess oil.",
+            "7. Serve the Hara Bhara Kababs hot with mint chutney or tomato ketchup."
+        ],
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/01/hara-bhara-kabab-recipe-1.jpg"
+    },
+    {
+        "name": "Aloo Chaat",
+        "description": "Aloo Chaat is a popular Indian street food made with boiled potatoes, spices, and chutneys.",
+        "ingredients": [
+            "4 medium-sized potatoes, boiled and peeled",
+            "1 small onion, finely chopped",
+            "1 small tomato, finely chopped",
+            "1 green chili, finely chopped",
+            "1/4 cup chopped coriander leaves",
+            "1/4 cup tamarind chutney",
+            "1/4 cup mint-coriander chutney",
+            "1/2 teaspoon chaat masala",
+            "1/2 teaspoon roasted cumin powder",
+            "1/4 teaspoon red chili powder",
+            "Salt to taste",
+            "Oil for frying"
+        ],
+        "instructions": [
+            "1. Cut the boiled potatoes into small cubes.",
+            "2. Heat oil in a deep pan or kadhai over medium heat.",
+            "3. Deep fry the potato cubes until they turn golden brown and crispy. Remove them using a slotted spoon and place them on a paper towel to drain excess oil.",
+            "4. In a mixing bowl, combine the fried potato cubes, chopped onion, chopped tomato, chopped green chili, and chopped coriander leaves.",
+            "5. Add chaat masala, roasted cumin powder, red chili powder, and salt. Mix well to coat the potatoes and vegetables with the spices.",
+            "6. Drizzle tamarind chutney and mint-coriander chutney over the mixture. Toss gently to coat everything evenly.",
+            "7. Serve the Aloo Chaat in individual bowls or plates and garnish with additional coriander leaves, if desired.",
+            "8. Enjoy the tangy and spicy Aloo Chaat!"
+        ],
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/09/Aloo-chaat-ded000e.jpg?quality=90&resize=556,505"
+    }
+]
