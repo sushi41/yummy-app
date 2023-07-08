@@ -144,5 +144,36 @@
             "8. Enjoy the tangy and spicy Aloo Chaat!"
         ],
         "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/09/Aloo-chaat-ded000e.jpg?quality=90&resize=556,505"
-    }
-]
+    },
+    {
+	"Name": "Aloo Palak",
+	"Description": "Aloo Palak is a delicious Indian dish made with spinach and potatoes.",
+	"Ingredients": [
+		"2 tablespoons oil",
+		"1 onion, finely chopped",
+		"2 cloves of garlic, minced",
+		"1 teaspoon grated ginger",
+		"2 green chilies, finely chopped",
+		"2 medium-sized potatoes, peeled and diced",
+		"4 cups spinach leaves, washed and finely chopped",
+		"1/2 teaspoon turmeric powder",
+		"1 teaspoon cumin powder",
+		"1 teaspoon coriander powder",
+		"1/2 teaspoon red chili powder (adjust according to taste)",
+		"Salt to taste",
+		"Fresh cilantro leaves for garnishing"
+	],
+	"Instructions": [
+		"1. Heat oil in a pan or skillet over medium heat.",
+		"2. Add the chopped onions and sauté until they turn golden brown.",
+		"3. Add minced garlic, grated ginger, and chopped green chilies. Sauté for a minute.",
+		"4. Add diced potatoes to the pan and cook until they are slightly golden and cooked through.",
+		"5. Add turmeric powder, cumin powder, coriander powder, red chili powder, and salt. Mix well.",
+		"6. Add the chopped spinach leaves to the pan and stir-fry until they wilt and cook down.",
+		"7. Cover the pan and let the mixture cook for about 8-10 minutes, or until the potatoes are fully cooked and the flavors have blended well.",
+		"8. Remove from heat and garnish with fresh cilantro leaves.",
+		"9. Serve hot with roti, naan, or rice."
+	],
+	"image": "https://www.cookwithmanali.com/wp-content/uploads/2023/03/Vegan-Indian-Aloo-Palak-Recipe.jpg"
+    },
+    
